@@ -2,8 +2,8 @@
 
 # Slide 1
 
-GitStar
-For you, by you.
+*GitStar
+For your mom, by your mom.
 
 # Slide 2
 
