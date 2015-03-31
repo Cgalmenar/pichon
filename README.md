@@ -3,7 +3,6 @@
 # Slide 1
 
 *GitStar
-For your mom, by your mom.
 
 # Slide 2
 
